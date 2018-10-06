@@ -1,0 +1,65 @@
+.name{
+    width: 100%;
+    height: 45px;
+    background: #A5A5A5;
+    position: absolute;
+}
+.name2{
+    width: 120px;
+    margin: 10px 80px;
+    position: absolute;
+    z-index: 1;
+    font-family: fantasy;
+    color: blue;
+    font-size: 20px;
+}
+.something{
+    top: 47px;
+    border-right: 50px solid transparent;
+    border-top: 35px solid #DBDBDB;
+    position: relative;
+}
+.something2{
+    width: 110px;
+    margin:20px 80px;
+    position: absolute;
+    z-index: 1;
+    color: #4352c3;
+}
+.avatar{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 3px solid royalblue;
+    top: 7px;
+    left: 3px;
+    position: fixed;
+}
+.all-menu{
+    margin-top:80px;
+}
+.menu{
+    background: #fafafa;
+    width: 100%;
+    height: 45px;
+    border: 1px #ffffff4d;
+    border-style: groove;
+    border-right: none;
+    border-left: none;
+    margin-bottom: -1px;
+}
+.menu:hover{
+    background: #A5A5A5;
+}
+.menu-ava{
+    float: left;
+    margin: 5px 15px 5px 20px;
+    width: 35px;
+    height: 35px;
+}
+.menu-title{
+    font-family: inherit;
+    font-size: 20px;
+    margin: 12px 10px;
+    color: black;
+}

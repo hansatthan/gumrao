@@ -1,0 +1,54 @@
+.block-chat {
+    height: 45px;
+    width: 20%;
+}
+.main-chat:hover{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.main-chat{
+    max-height: 88%;
+}
+  .search-chat {
+    height: 40px;
+    width: 100%;
+    background: #4c4c4c;
+    bottom: 0;
+    position: fixed;
+  }
+  .type-people {
+    height: 40px;
+    width: 20%;
+    background: #c8c6c6;
+    bottom: 0;
+    position: fixed;
+  }
+  .list-chat {
+    /* background: #4c4c4c; */
+    height: 46px;
+    width: 100%;
+    margin-top: 2px;
+  }
+  .list-chat-ava {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 8px 9px;
+  }
+  .list-chat-status {
+    width: 6px;
+    height: 6px;
+    float: left;
+    margin: 5px -12px;
+  }
+  .list-chat-name {
+    float: left;
+    margin-top: 13px;
+    color: #d1d1d1;
+  }
+  .list-chat-img {
+    width: 25px;
+    float: right;
+    margin: 12px 3px;
+  }
+  
